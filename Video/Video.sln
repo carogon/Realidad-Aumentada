@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video", "Assembly-CSharp.csproj", "{577D2EBB-7EF0-7B27-2FCD-2EDC2829EB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video", "Assembly-CSharp-Editor.csproj", "{BC3EEB16-12C9-478B-E23F-51E7F51A288C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577D2EBB-7EF0-7B27-2FCD-2EDC2829EB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577D2EBB-7EF0-7B27-2FCD-2EDC2829EB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577D2EBB-7EF0-7B27-2FCD-2EDC2829EB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577D2EBB-7EF0-7B27-2FCD-2EDC2829EB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3EEB16-12C9-478B-E23F-51E7F51A288C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3EEB16-12C9-478B-E23F-51E7F51A288C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3EEB16-12C9-478B-E23F-51E7F51A288C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3EEB16-12C9-478B-E23F-51E7F51A288C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
