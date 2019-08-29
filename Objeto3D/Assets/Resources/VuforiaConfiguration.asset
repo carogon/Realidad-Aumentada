@@ -45,7 +45,6 @@ MonoBehaviour:
   databaseLoad:
     dataSetsToLoad:
     - Test1
-    - VuforiaMars_Images
     - VuforiaMars_VuMark
     dataSetsToActivate:
     - Test1
@@ -71,5 +70,5 @@ MonoBehaviour:
   webcam:
     deviceNameSetInEditor: 
     flipHorizontally: 0
-    turnOffWebCam: 0
+    turnOffWebCam: 1
     renderTextureLayer: 30
